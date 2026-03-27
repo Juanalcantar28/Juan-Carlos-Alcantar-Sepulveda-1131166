@@ -1,2 +1,3 @@
-# Juan-Carlos-Alcantar-Sepulveda-1131166
-actividades
+# Ejercicios 18/03/2026 - 25/03/2026 - DFD
+Juan Carlos Alcantar Sepulveda
+
